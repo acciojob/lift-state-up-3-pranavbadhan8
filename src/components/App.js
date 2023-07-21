@@ -7,11 +7,11 @@ const App = () => {
     let [ans,setAns] = useState("Selected Option");
 
     let clicking1 = () =>{
-    setAns("Selected Option : Option 1"); 
+    setAns("Selected Option: Option 1"); 
     }
 
     let clicking2 = () =>{
-    setAns("Selected Option : Option 2"); 
+    setAns("Selected Option: Option 2"); 
     }
 
   return (
