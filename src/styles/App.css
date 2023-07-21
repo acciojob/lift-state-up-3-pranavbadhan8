@@ -1,1 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: "border-box";
+ }
+ .parent{
+     background-color: greenyellow;
+     width: 400px;
+     height: fit-content;
+     border: 2px solid black;
+     margin: 50px auto;
+ }
+ 
+ .child1 {
+     background-color: brown;
+     width: 360px;
+     height: fit-content;
+     margin: 0px auto;
+ }
+ .child2{
+    background-color: gold;
+    width: 360px;
+    height: fit-content;
+    margin: 0px auto;
+ }
+ button,h2{
+     margin-top:20px;
+     margin-bottom: 10px
+ }
 
+ 
+ h1,p{   
+     padding-left: 20px;
+     padding-top: 20px;
+     padding-bottom: 20px;
+ }
